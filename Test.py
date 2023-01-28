@@ -1,1 +1,6 @@
-print("Hello Git")
+print("print 1")
+print("print 2")
+print("print 3")
+print("print 4")
+print("print 5")
+print("print 6")
